@@ -1,1 +1,1 @@
-# This Repository is exclusively used for Medium Articles
+# This Repository holds code that I used in Medium Articles
